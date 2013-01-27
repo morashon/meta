@@ -103,42 +103,42 @@ XXglock/chimes at end of HIL? (Lo-o-ove theme)
 
 X long wait at end of HIL
 
-4000 cult? (Qmark)
+X 4000 cult? (Qmark)
 
-4066 I mix --->
+X 4066 I mix --->
 
-4100 we disconnect --->
+X 4100 we disconnect --->
 
-4119 he'l be dis --->
+X 4119 he'l be dis --->
 
-4160 {time=250} is in dialogue (dash on prev line)
+X 4160 {time=250} is in dialogue (dash on prev line)
 
-4200 fighting --->
+X 4200 fighting --->
 
 4290 Ah jilted
 
-4330 Waiter <---
+X 4330 Waiter <---
 
-4353 "fade out" dir wrong time (late)
+X 4353 "fade out" dir wrong time (late)
 
-4422 We live <---
+X 4422 We live <---
 
 4482 qualia (intonation??)
 
-4608 delay before "human is all"
+XX 4608 delay before "human is all"
 
-fade in "Mr Happy" more gracefully
-(a bit lower vol for song? or remix? compare to Ballad vol)
+X fade in "Mr Happy" more gracefully
+X (a bit lower vol for song? or remix? compare to Ballad vol)
 
-4692 "morashon small smile" make a dir
+X 4692 "morashon small smile" make a dir
 
-dir: visual ideas for MR HAPPY (arcade)
+X dir: visual ideas for MR HAPPY (arcade)
 
-5089 Apparently, (add comma)
+X 5089 Apparently, (add comma)
 
-5105 Tomorrow --->
+X 5105 Tomorrow --->
 
-(pacing) -->dir
+X (pacing) -->dir
 
 5140 ---> (give 'what' time)
 

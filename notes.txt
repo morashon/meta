@@ -140,72 +140,72 @@ X 5105 Tomorrow --->
 
 X (pacing) -->dir
 
-5140 ---> (give 'what' time)
+X 5140 ---> (give 'what' time)
 
 a bit weird between "bye lover" and beg of next seg
 
-5233 Thisone (as Morashon):
+X 5233 Thisone (as Morashon):
 
 LAIR still seems low vol comparatively
 
-5376 "Solo - played by Ogre) hold!
-(AAAaahs?)
+X 5376 "Solo - played by Ogre) hold!
+XX (AAAaahs?)
 
-5522 "Morashon disappears" --> dir
+X 5522 "Morashon disappears" --> dir
 
-dialogue after LAIR should be comparatively lower
+XX dialogue after LAIR should be comparatively lower
 
-"They move through the crowd" hold
+X "They move through the crowd" hold
 
-10 seconds XXX
+X 10 seconds XXX
 
-5606 background music vol down
+X 5606 background music vol down
 
-5679 (nervously) -->
+X 5679 (nervously) -->
 
-5744 "the music stops abruptly" -- no sense XXX
+X 5744 "the music stops abruptly" -- no sense XXX
 
-6074 I understand -->
+X 6074 I understand -->
 
-6131 Second coming... (add ...)
+X 6131 Second coming... (add ...)
 
-6220 both hopeless, (add comma)
+X 6220 both hopeless, (add comma)
 
-6222 So, (add comma)
+X 6222 So, (add comma)
 
-6327 Her algorithms -->
+X 6327 Her algorithms -->
 
-6425 Might change things (interrupt M)
+X 6425 Might change things (interrupt M)
 
-6451 (change chuckles to smiles)
+X 6451 (change chuckles to smiles)
 
-6523 "delete" instead of "unlink"?
+XX 6523 "delete" instead of "unlink"?
 
-6548 "pretending to be!" add exclaim
+X 6548 "pretending to be!" add exclaim
 
-6606 I've laid out --->
+X 6606 I've laid out --->
 
-6691 What you really want ---->
+X 6691 What you really want ---->
 
-6780 No shit. (no !)
+X 6780 No shit. (no !)
 
-6791 yes like thisone --->
+X 6791 yes like thisone --->
 
-6912 hold Annai's Goodbye (it sticks)
+X 6912 hold Annai's Goodbye (it sticks)
 
-6941 dir "The Ogre" <----
+X 6941 dir "The Ogre" <----
 
-6962 "Starlitetm" rm tm
+X 6962 "Starlitetm" rm tm
 
-6975 dir too short "Annai and Thisone..."
+X 6975 dir too short "Annai and Thisone..."
 
-7010 Ogre burps
+Xx 7010 Ogre burps
 
-7131 You are --->
+X 7131 You are --->
 
-7210 "Oh god" should interrupt T sooner
+X 7210 "Oh god" should interrupt T sooner
 
-7250 OK here it is --->
+X 7250 OK here it is --->
 
 7275 work on directions
 

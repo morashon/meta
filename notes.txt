@@ -207,68 +207,68 @@ X 7210 "Oh god" should interrupt T sooner
 
 X 7250 OK here it is --->
 
-7275 work on directions
+X 7275 work on directions
 
-7368 Once we <---
+x 7368 Once we <---
 
-"Morashon" sung by T & M
+X "Morashon" sung by T & M
 
-7550: color for "Morashon and Thisone:" in dir
+xx 7550: color for "Morashon and Thisone:" in dir
 
-7662 rm Thisone
+X 7662 rm Thisone
 
-7694 I am not ----->
+X 7694 I am not ----->
 
 7723 Look ---->
 
 (add crowd noise?  Gobble gobble...)
 
-"You" seems too loud! And very bassy
+X "You" seems too loud! And very bassy
 
-You will stall (not You might stall)
+X You will stall (not You might stall)
 
-8030... Ogre in Jester gear?
+x 8030... Ogre in Jester gear?
 
-undo MOT low vol beginning?
+X undo MOT low vol beginning?
 MOT is bassy!
 
 8100~~ glitch
 
-8240 break up dir?
+X 8240 break up dir?
 
-8252 make "3 YEARS LATER" more prominent
+X 8252 make "3 YEARS LATER" more prominent
 
 more glitches around 8290
 
-8318 dir (piano guy?) why ?
+X 8318 dir (piano guy?) why ?
 
-8343 A I (not AI)
+X 8343 A I (not AI)
 
-8390 But I --->
+X 8390 But I --->
 
-8403 There always --->
+X 8403 There always --->
 
-(slowly) Yes --->
+X (slowly) Yes --->
 
 Over & Over also bassy -- compare laptop to desktop
 
 8664 We're starting --->
 
-8690 "We" (quote)
+xx 8690 "We" (quote)
 
 8704 Ah fix
 
-8740 flesh and chips (no comma)
+X 8740 flesh and chips (no comma)
 
 pay royalty for GIB fx
 
-hold Preacher & rm 8920
+X hold Preacher & rm 8920
 
-final YOU can be a tad louder?
+X final YOU can be a tad louder?
 
 Take advantage of credits to explain more, meme it up, point to www, etc (ABC - Always Be Closing)
 
 need to play everything at one volume, on speakers
 
-WTF YOU ends way before fade!!!
+X WTF YOU ends way before fade!!!
 

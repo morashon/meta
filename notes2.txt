@@ -29,7 +29,7 @@ replace all AI, A I with A-I
 
 1979 are there others in the salon? make it clear just them this time
 
-why do Annai and Morashon and Thisone all appear at pan 50/50?
+X why do Annai and Morashon and Thisone all appear at pan 50/50?
 
 2355 rm (pause) -- check them all
 
@@ -54,3 +54,109 @@ add "Intro to Mouth of Truth"
 (should bgd music be a bit up here?)
 
 3100 (pause to look up Walt Whitman) -- there isn't really a pause
+
+3800 add Annai to description  ?
+
+3900 seg3 -- pan!
+
+3980 this is exciting <---
+
+4030 txt msg instead of in dialogue
+
+4218 rm (pause)
+
+4315 "A jilted lover" --> "Ah ..."
+
+4362 ugh -> capitalize
+
+4400 pause before "you're sleeping"
+
+4504 quote "qualia"
+
+4566 AI --> A-I
+
+4633 "shapes, forms" --> ERROR direction has Morashon dialogue
+
+REMIX: less hi-pass on Mr Happy?
+
+4868 "(Mr Happy/Mr Happy)"
+
+5025 "(Mr Happy/Mr Happy)"
+hold to fade at 5055
+
+5080 AI --> A-I
+
+5712 then I guess ---> then, I guess
+
+5200 dir: 10M? (maybe 150K)
+
+5222 dir for LAIR hold; un-hold "here goes nothing"
+
+5400: --> The Ogre plays a solo
+
+5480: Background singers: Aaah... ?
+in any case, un-hold "Like, 'Am I Real"'
+
+5555 "Techno music" ---> "music"
+    
+5670 nasty pop
+
+5872 AI --> A-I (Check 'em all)
+
+5997 delay "get out"?
+
+6070 italics: "/she/ had to fall in love with /you/"
+
+6120-ish tfer of code could be github url!
+
+6391 empathise sp?
+
+6472 telling me this --> telling me all this
+
+6926 Morashon disappears ---->
+
+hold dir with ogre & next one
+
+6993 dir  is too fast
+
+7013 starlitetm
+
+7280 rm Annai dialogue "Thanks. Later."
+
+another chance to URL github
+
+7509 clever visuals during instrumental?
+
+7590 --- Annai up top?
+
+Annai "Morashon IS me now"? 
+
+7814 Truth can only ----->
+
+glitch near top of YOU
+another at 7981
+
+and beads --> with beads
+
+8185 glitch in MOT
+
+dir at end of MOT is still pretty quick (puddle)
+
+8485 Stranger/Annai:
+
+OverOver: Piano instead of gtr 2nd verse? (distorted!)
+
+rm last line of song
+
+"Oh Christ." (Puts out a virtual cig)
+
+some of the dialogue should be "Annai:" instead of "Stranger:"
+
+Shrek meets Les Miserables
+
+meme-ories (make it sooner)
+
+Credits: acting, software, links?
+Mark Twain?
+                 
+

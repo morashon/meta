@@ -1,0 +1,5 @@
+#!/bin/bash
+rm morashon.mov
+avimerge -i ../front/front_V.avi ../seg1/seg1_V.avi  ../seg2/seg2_V.avi  ../seg3/seg3_V.avi  ../seg4/seg4_V.avi  ../seg5/seg5_V.avi -o morashon_V.avi
+sox ../front/front.wav ../seg1/export/seg1_Session.wav ../seg2/export/seg2_Session.wav ../seg3/export/seg3_Session.wav ../seg4/export/seg4_Session.wav ../seg5/export/seg5_Session.wav morashon_A.wav
+avconv -i morashon_A.wav -i morashon_V.avi -acodec libmp3lame -ab 256k -vb 500k morashon.mov

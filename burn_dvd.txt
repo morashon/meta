@@ -1,0 +1,7 @@
+avconv -i morashon_A.wav -i morashon_V.avi -target ntsc-dvd morashon.mpg
+
+devede (a gui thing) -- select NTSC! save to ISO -- do not burn (fails)
+
+brasero - load the ISO & burn
+
+ 
